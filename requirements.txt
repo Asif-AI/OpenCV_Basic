@@ -1,0 +1,4 @@
+metplotlib
+opencv-python
+numpy
+notebook
